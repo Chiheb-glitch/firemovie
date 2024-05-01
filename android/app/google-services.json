@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226149164109",
+    "project_id": "firemovies-d3c6b",
+    "storage_bucket": "firemovies-d3c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226149164109:android:3e9e223d1c34fe15d62804",
+        "android_client_info": {
+          "package_name": "com.example.film_wise_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226149164109-cdm0kagv9u1bu1oiv2scji0142kotfmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVI1a6B4W2b3w5HuYpy5bcBE26rMGa84w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226149164109-cdm0kagv9u1bu1oiv2scji0142kotfmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
