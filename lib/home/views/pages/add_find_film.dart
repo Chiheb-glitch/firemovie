@@ -311,12 +311,12 @@ Navigator.of(context).pop();                            },
                                 
                                   style: ElevatedButton.styleFrom(
                                     
-                                    primary: !i["is_active"]
+                                    foregroundColor: Colors
+                                        // ignore: deprecated_member_use
+                                        .white, primary: !i["is_active"]
                                         ? Color.fromARGB(0, 0, 122, 204)
                                         : Color.fromARGB(240, 2, 154,
-                                            255), // Set the background color of the button
-                                    onPrimary: Colors
-                                        .white, // Set the text color of the button
+                                            255), // Set the text color of the button
                                     shape: RoundedRectangleBorder(
                                       borderRadius: BorderRadius.circular(
                                           28), // Set the border radius of the button
