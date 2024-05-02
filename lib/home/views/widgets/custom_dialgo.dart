@@ -32,7 +32,7 @@ class CustomDialog extends StatelessWidget {
                   Navigator.pop(context); // Close the dialog
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: const Color.fromARGB(255, 216, 216, 216), // Button color
+                  backgroundColor: const Color.fromARGB(255, 216, 216, 216), // Button color
                 ),
                 child: Text(
                   buttonText,
