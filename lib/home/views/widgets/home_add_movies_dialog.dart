@@ -69,7 +69,7 @@ BuildContext context__;
                   Navigator.pop(context); // Close the dialog
                 },
                 style: ElevatedButton.styleFrom(
-                  primary:  buttonColor, // Button color
+                  backgroundColor:  buttonColor, // Button color
                 ),
                 child: Text(
                   buttonText,
