@@ -295,8 +295,8 @@ Navigator.of(context).pop();                            },
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.start,
                         children: [
-                          for (var i in top_bar_search)
-                            Container(
+                  //        for (var i in top_bar_search)
+                   /*         Container(
                       
                                     decoration: BoxDecoration(
                                       boxShadow: [
@@ -369,7 +369,7 @@ Navigator.of(context).pop();                            },
                                     ),
                                   )),
                             ),
-                        ],
+                    */    ],
                       ),
                     ),
                   ),
