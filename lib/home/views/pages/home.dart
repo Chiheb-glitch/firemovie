@@ -1080,12 +1080,12 @@ SizedBox(height: 2,),
                                           child: ElevatedButton(
                                               style: ElevatedButton.styleFrom(
                                                  side: BorderSide(color: const Color.fromARGB(255, 93, 105, 122)),
-                                                primary: Color.fromARGB(
+                                                backgroundColor: Color.fromARGB(
                                                     255,
                                                     8,
                                                     76,
                                                     124), // Set the background color of the button
-                                                onPrimary: Colors
+                                                foregroundColor: Colors
                                                     .white, // Set the text color of the button
                                                 shape: RoundedRectangleBorder(
                                                   borderRadius: BorderRadius.circular(
