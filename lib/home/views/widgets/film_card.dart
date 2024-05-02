@@ -157,7 +157,6 @@ BlocProvider
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Color.fromARGB(199, 184, 21, 0),
-                  primary: const Color.fromARGB(255, 216, 216, 216), // Button color
                 ),
                 child: Text(
                   "Delete IT",
